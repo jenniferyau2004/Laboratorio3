@@ -9,6 +9,9 @@ Tecnologías usadas
 - 📁 basename
 - 📝 Formularios
 - 📤 Subir archivos
+- 🖥️ XAMPP
+- 🐙 GitHub
+
 
 Autor 
 Jennifer Yau 
